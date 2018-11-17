@@ -44,5 +44,9 @@
 ### 我来写几个字
 
 # git2的版本
+<<<<<<< HEAD
 # conflicts
-
+xixishi zheyang ma 
+=======
+#  chongtu
+>>>>>>> czb
